@@ -878,7 +878,7 @@ nav {
 .about-section {
     padding: 50px;
     text-align: center;
-    background-image: url("../assets/images/about.webp");
+    background-image: url("/assets/images/about.webp");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
